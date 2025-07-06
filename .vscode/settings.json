@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "olx_carros",
+            "database": "olx_carros",
+            "username": "postgres",
+            "password": "postgres"
+        }
+    ]
+}
